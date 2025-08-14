@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../anastasiia/Downloads/rogue/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "vsc"
+  }
+}
